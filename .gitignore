@@ -1,4 +1,4 @@
 #ignore setup
 setup/
 #ignore file nam test or folder name test
-/test
+*.txt
